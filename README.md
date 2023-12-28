@@ -18,6 +18,6 @@
  
  -promises
  
- -sync and asunc
+ 
  
  
