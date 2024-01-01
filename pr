@@ -4,4 +4,4 @@ let answer = 0;
     answer++;               //loop 
  }
 
- console.log(answer);
+ 
