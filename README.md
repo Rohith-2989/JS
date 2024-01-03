@@ -1,6 +1,4 @@
-# JS
 
-#primitives of js
  
  
   
